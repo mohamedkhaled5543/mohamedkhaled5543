@@ -249,7 +249,7 @@ I'm interested in connecting with engineers, AI practitioners, recruiters, and t
 
 - **Email:** [mohamedeissa651@gmail.com](mailto:mohamedeissa651@gmail.com)
 - **LinkedIn:** [linkedin.com/in/mkhaled-ai](https://www.linkedin.com/in/mkhaled-ai)
-- **Portfolio:** [mohamedkhaledportfolio1.netlify.app](https://mohamedkhaled5543.github.io/)
+- **Portfolio:** [mohamedkhaled5543.github.io](https://mohamedkhaled5543.github.io/)
 - **GitHub:** [github.com/mohamedkhaled5543](https://github.com/mohamedkhaled5543)
 
 ---
