@@ -11,7 +11,7 @@ Cairo, Egypt · Final-year Computer Science Student — Helwan National Universi
 <p>
   <a href="https://www.linkedin.com/in/mkhaled-ai"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:mohamedeissa651@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://mohamedkhaledportfolio1.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
+  <a href="https://mohamedkhaled5543.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
   <a href="https://github.com/mohamedkhaled5543"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
@@ -249,7 +249,7 @@ I'm interested in connecting with engineers, AI practitioners, recruiters, and t
 
 - **Email:** [mohamedeissa651@gmail.com](mailto:mohamedeissa651@gmail.com)
 - **LinkedIn:** [linkedin.com/in/mkhaled-ai](https://www.linkedin.com/in/mkhaled-ai)
-- **Portfolio:** [mohamedkhaledportfolio1.netlify.app](https://mohamedkhaledportfolio1.netlify.app)
+- **Portfolio:** [mohamedkhaledportfolio1.netlify.app](https://mohamedkhaled5543.github.io/)
 - **GitHub:** [github.com/mohamedkhaled5543](https://github.com/mohamedkhaled5543)
 
 ---
